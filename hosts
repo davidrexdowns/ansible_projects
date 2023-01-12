@@ -1,0 +1,3 @@
+[all]
+ubuntu ansible_user=cisco ansible_password=cisco
+
